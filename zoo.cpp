@@ -1,3 +1,4 @@
+//if o is double of z like zoo then print yes else no.
 #include<iostream>
 using namespace std;
 int main()
